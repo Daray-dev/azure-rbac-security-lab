@@ -4,7 +4,7 @@ Built a hands-on Azure IAM lab to validate least privilege using Reader, Contrib
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objectives
 - Understand Azure RBAC role tiers
-- Test privilege boundaries
+- Test privilege boundaries 
 - Demonstrate least privilege
 - Identify misconfiguration risks
 - Improve cloud governance skills
